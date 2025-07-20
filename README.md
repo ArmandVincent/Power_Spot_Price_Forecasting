@@ -1,4 +1,3 @@
-# Power_Spot_Price_Forecasting
 # Power Spot Price Forecasting
 
 This repository provides a complete workflow for forecasting electricity spot prices using machine learning and time series models. The project includes data exploration, feature engineering, regression/classification with CART and Random Forest, and time series forecasting with ARIMA and VAR.
